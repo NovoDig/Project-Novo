@@ -1,0 +1,50 @@
+﻿  Player.cpp
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(23,16): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,116): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,116): warning C4244:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,116): warning C4244:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,116): warning C4244:             T=int
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,116): warning C4244:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,72): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,72): warning C4244:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,72): warning C4244:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,72): warning C4244:             T=int
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(43,72): warning C4244:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(55,16): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(55,16): warning C4305:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(55,16): warning C4305:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(55,16): warning C4305:             T=float
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(55,16): warning C4305:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(60,17): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(60,17): warning C4305:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(60,17): warning C4305:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(60,17): warning C4305:             T=float
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(60,17): warning C4305:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(66,17): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(66,17): warning C4305:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(66,17): warning C4305:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(66,17): warning C4305:             T=float
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(66,17): warning C4305:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(70,16): warning C4305: '=': truncation from 'double' to 'T'
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(70,16): warning C4305:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(70,16): warning C4305:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(70,16): warning C4305:             T=float
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(70,16): warning C4305:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,111): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,111): warning C4244:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,111): warning C4244:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,111): warning C4244:             T=int
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,111): warning C4244:         ]
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,69): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,69): warning C4244:         with
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,69): warning C4244:         [
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,69): warning C4244:             T=int
+C:\Users\James\Desktop\projects\Project Novo\Project Novo\Player.cpp(74,69): warning C4244:         ]
+  Generating code
+  1 of 445 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project Novo.vcxproj -> C:\Users\James\Desktop\projects\Project Novo\x64\Release\Project Novo.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
